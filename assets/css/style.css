@@ -1,0 +1,438 @@
+header {
+    background-image: url("../img/fundo-desktop.webp");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+header .container .row .col-sm-12.col-md-12 .logo {
+    padding: 8% 0% 6%;
+}
+header .container .row .col-sm-12.col-md-12 p.h1 {
+    background-color: #FFF;
+    color: #11dd83;
+    font-weight: bold;
+    padding: 5px 8px;
+    border-radius: 4px;
+}
+header .container .row .col-sm-12.col-md-12 p.txt {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding: 2.5% 0%;
+    width: 65%;
+}
+header .container .row .col-sm-12.col-md-12 p.button {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color: #00874b;
+    color: #FFF;
+    padding: 10px;
+    border-radius: 30px;
+    width: 25%;
+    font-size: 16px;
+    margin-bottom: 4%;
+}
+header .container .row .col-sm-12.col-md-12 p.button strong {
+    margin-right: 20px;
+}
+section .container .row.rowOne {
+    padding:5% 0% 2.5%;
+}
+section .container .row .col-sm-3.col-md-3 {
+    padding: 20px;
+}
+section .container .row .col-sm-3.col-md-3 p {
+    text-align: center;
+    margin: 15px 0px;
+    font-size: 16px;
+}
+section .container .row .col-sm-3.col-md-3 picture img.parceiros,
+section .container .row .col-md-8 picture img {
+    width: 100%;
+}
+section .container.img,
+section .container.ETE,
+section.green {
+    padding: 1.5% 0%;
+}
+section .container .row .col-md-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+section .container.ETE .row .col-md-4 .d-flex.flex-column p {
+    color: #11dd83;
+    font-size: 20px;
+}
+section .container.ETE .row .col-md-4 p.txt {
+    width: 86%;
+    font-size: 15px;
+    padding: 10px 0px;
+}
+section.pouso .container.ETE .button {
+    padding: 3% 0;
+    display: flex;
+    justify-content: center;
+}
+section.pouso .container.ETE .button a {
+    color: #FFF;
+    background: #08c772;
+    padding: 10px 30px;
+    border-radius: 30px;
+    font-size: 20px;
+}
+section.curupy, section.teles, section.capim {
+    background-color: #FFF !important;
+}
+section.image .container.imagem .row picture img {
+    width: 100%;
+}
+section.image .container.imagem .row {
+    position: relative;
+}
+section .img,
+section .img picture img,
+section.image .container.imagem .row .txtMap,
+section.image .container.imagem .row picture.ping,
+section.image .container.imagem .row picture.ping2,
+section.image .container.imagem .row picture.ping3,
+section.image .container.imagem .row picture.ping4,
+section.image .container.imagem .row picture.ping5,
+section.image .container.imagem .row picture.ping6,
+section.image .container.imagem .row picture.ping7,
+section.image .container.imagem .row picture.ping8,
+section.image .container.imagem .row picture.ping9,
+section.image .container.imagem .row picture.ping10 {
+    position: absolute;
+}
+section.image .container.imagem .row picture.ping {
+    top: 40%;
+    left: 46%;
+}
+section.image .container.imagem .row picture.ping2 {
+    top: 42.5%;
+    left: 49%;
+}
+section.image .container.imagem .row picture.ping3 {
+    top: 62.5%;
+    right: 23%;
+}
+section.image .container.imagem .row picture.ping4 {
+    top: 73.5%;
+    right: 26.5%;
+}
+section.image .container.imagem .row picture.ping5 {
+    top: 67%;
+    right: 50%;
+}
+section.image .container.imagem .row picture.ping6 {
+    top: 72%;
+    right: 37.5%;
+}
+section.image .container.imagem .row picture.ping7 {
+    top: 82.5%;
+    right: 40%;
+}
+section.image .container.imagem .row picture.ping8 {
+    top: 85%;
+    right: 46%;
+}
+section.image .container.imagem .row picture.ping9 {
+    top: 88%;
+    right: 39.5%;
+}
+section.image .container.imagem .row picture.ping10 {
+    top: 91%;
+    right: 41.3%;
+}
+section.image .container.imagem .row .txtMap {
+    left: 40%;
+    top: 18%;
+}
+section.image .container.imagem .row .txtMap p strong {
+    font-size: 35px;
+    color: #11dd83;
+    background: #FFF;
+    padding: 5px 30px;
+    width: 95%;
+    text-align: center;
+    border-radius: 5px;
+}
+section.image .container.imagem .row .txtMap p {
+    margin-bottom: 5px;
+    color: grey;
+    font-size: 20px;
+    background-color: #FFF;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px 30px;
+    border: 1.5px solid #11dd83;
+}
+section .img {
+    left: 50%;
+}
+section .img picture img {
+    bottom: -25px;
+}
+section.parceiros {
+    padding: 4% 0%;
+    background-color: #FFF;
+}
+section.parceiros .container .row .col-md-6 p.h1 {
+    color: #11dd83;
+    box-shadow: 1px 1px 5px 1px grey;
+    padding: 7px 25px;
+    border-radius: 5px;
+}
+section.parceiros .container .row .col-md-6 p.p1 {
+    color: grey;
+    font-size: 20px;
+    background: #FFF;
+    padding: 7px 25px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px 1px;
+}
+section.parceiros .container .row .col-md-6 picture img.parceiros {
+    width: 100%;
+}
+section.green {
+    background-color: #08c772;
+}
+section.green .container .title p.h1 {
+    color: #11dd83;
+    background-color: #FFF;
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin: 3% 0% 3px 0%;
+}
+section.green .container .title p {
+    color: grey;
+    background: #FFF;
+    padding: 10px 10%;
+    border-radius: 5px;
+}
+section.green .container .row {
+    justify-content: space-between;
+}
+section.green .container .row .col-sm-4 {
+    background-color: #FFF;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 33% !important;
+    position: relative;
+}
+section.green .container .row .col-sm-4:after {
+    content: "";
+    width: 0;
+    height: 0;
+    position: absolute;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid #FFF;
+    bottom: -20px;
+    left: 80%;
+}
+section.green .container .row .col-sm-4 .name picture img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+section.green .container .row .col-sm-4 .name.d-flex .n1 p.h5 {
+    color: black;
+}
+section.green .container .row .col-sm-4 .name.d-flex .n1 p, 
+section.green .container .row .col-sm-4 .texto p {
+    color: grey;
+}
+section.green .container .row .col-sm-4 .audio {
+    margin-top: 12%;
+}
+section.green {
+    padding-bottom: 4%;
+}
+footer {
+    background-color: #00874b;
+    padding: 4% 0%;
+}
+footer .container .row .col-sm-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+footer .container .row .col-sm-3 p {
+    color: white;
+    font-size: 18px;
+}
+footer .container .row .col-sm-3 a {
+    width: 70%;
+}
+
+footer .container .row .col-sm-3 a p svg {
+    margin-right: 10px;
+}
+footer .container .row .col-sm-3 a p.d-flex.align-items-center {
+    padding-left: 14px;
+}
+
+section.image .container.imagem .row.mob {
+    display: none;
+}
+@media only screen and (min-width:320px) and (max-width:768px) {
+    section.image .container.imagem .row.mob {
+        display: block;
+    }
+    section.image .container.imagem .row.desk {
+        display: none !important;
+    }
+    header .container .row .col-sm-12.col-md-12 p.h1 {
+        font-size: 30px;
+        text-align: center;
+    }
+    header {
+        background-image: url("../img/fundo-mobile.webp") !important;
+    }
+    section .container.img, section .container.ETE, section.green {
+        padding: 8.5% 0%;
+    }
+    header .container .row .col-sm-12.col-md-12 .logo {
+        padding: 20% 0% 15%;
+    }
+    header .container .row .col-sm-12.col-md-12 p.txt,
+    header .container .row .col-sm-12.col-md-12 p.button {
+        width: 90%;
+    }
+    header .container .row .col-sm-12.col-md-12 p.button {
+        margin-bottom: 15%;
+    }
+    section.image .container.imagem .row {
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    section .container {
+        margin: 0;
+        padding: 0;
+    }
+    section .container .row {
+        width: 100%;
+        margin: 0;
+    }
+    /* pings */
+
+    section.image .container.imagem .row.mob {
+       position: relative;
+    }
+    section.image .container.imagem .row.mob a {
+        position: absolute;
+        width: 12px;
+        height: 21px;
+        background-color: green;
+    }
+    section.image .container.imagem .row.mob a.a1 {
+        top: 30.5%;
+        left: 40%;
+    }
+    section.image .container.imagem .row.mob a.a2 {
+        top: 35%;
+        left: 44.5%;
+    }
+    section.image .container.imagem .row.mob a.a3 {
+        top: 54.5%;
+        left: 87.5%;
+    }
+    section.image .container.imagem .row.mob a.a4 {
+        top: 61%;
+        left: 80.5%;
+    }
+    section.image .container.imagem .row.mob a.a5 {
+        top: 57.5%;
+        left: 40%;
+    }
+    section.image .container.imagem .row.mob a.a6 {
+        top: 63%;
+        left: 61.8%;
+    }
+    section.image .container.imagem .row.mob a.a7 {
+        top: 71%;
+        left: 55.8%;
+    }
+    section.image .container.imagem .row.mob a.a8 {
+        top: 73.5%;
+        left: 46.5%;
+    }
+    section.image .container.imagem .row.mob a.a9 {
+        top: 77%;
+        left: 59.5%;
+    }
+    section.image .container.imagem .row.mob a.a10 {
+        top: 80.5%;
+        left: 54.8%;
+    }
+
+    /* pings end */ 
+    
+    section.parceiros {
+        padding: 10% 0%;
+    }
+    section.parceiros .container .row .col-md-6.d-flex.flex-column.align-items-center.justify-content-center {
+        margin-bottom: 20px;
+    }
+    section .container .row .col-md-4 {
+        padding-left: 10%;
+    }
+    section .container .row .col-md-4 div.d-flex.flex-column {
+        margin-bottom: 20px;
+    }
+    section.pouso .container.ETE .button {
+        padding: 15% 0% 8%;
+    }
+    section.green .container .title p.h1 {
+        font-size: 25px;
+        font-weight: bold;
+    }
+    section.green .container .row .col-sm-4 {
+        max-width: 95% !important;
+        margin-bottom: 25px;
+        padding: 10px;
+    }
+    section.green .container .row {
+        justify-content: center;
+    }
+    section .container .row .col-md-8 {
+        padding: 0;
+    }
+    footer {
+        padding: 10% 0%;
+    }
+    footer .container .row .col-sm-3 {
+        padding: 5% 0%;
+    }
+    footer .container .row .col-sm-3 p {
+        margin-bottom: 0;
+        text-align: center;
+    }
+    footer .container .row .col-sm-3 a {
+        display: flex;
+        justify-content: center;
+    }
+    @media only screen and (min-width:320px) and (max-width:374px) {
+        section .img {
+            left: 43%;
+        }
+        section.parceiros .container .row .col-md-6 p.h1 {
+            font-size: 28px;
+        }
+        section.parceiros .container .row .col-md-6 p.p1 {
+            font-size: 16px;
+        }
+    }
+    @media only screen and (min-width:375px) and (max-width:425px) {
+        section .img {
+            left: 45%;
+        }
+    }
+}
