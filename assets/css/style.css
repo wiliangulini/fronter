@@ -72,12 +72,12 @@ section .container.ETE .row .col-md-4 p.txt {
     font-size: 15px;
     padding: 10px 0px;
 }
-section.pouso .container.ETE .button {
+section.piracicamirim .container.ETE .button {
     padding: 3% 0;
     display: flex;
     justify-content: center;
 }
-section.pouso .container.ETE .button a {
+section.piracicamirim .container.ETE .button a {
     color: #FFF;
     background: #08c772;
     padding: 10px 30px;
@@ -100,7 +100,6 @@ section.image .container.imagem .row picture.ping,
 section.image .container.imagem .row picture.ping2,
 section.image .container.imagem .row picture.ping3,
 section.image .container.imagem .row picture.ping4,
-section.image .container.imagem .row picture.ping5,
 section.image .container.imagem .row picture.ping6,
 section.image .container.imagem .row picture.ping7,
 section.image .container.imagem .row picture.ping8,
@@ -124,29 +123,25 @@ section.image .container.imagem .row picture.ping4 {
     top: 73.5%;
     right: 26.5%;
 }
-section.image .container.imagem .row picture.ping5 {
-    top: 67%;
-    right: 50%;
-}
 section.image .container.imagem .row picture.ping6 {
     top: 72%;
     right: 37.5%;
 }
 section.image .container.imagem .row picture.ping7 {
-    top: 82.5%;
+    top: 68.5%;
     right: 40%;
 }
 section.image .container.imagem .row picture.ping8 {
-    top: 85%;
-    right: 46%;
+    top: 76%;
+    right: 39%;
 }
 section.image .container.imagem .row picture.ping9 {
     top: 88%;
     right: 39.5%;
 }
 section.image .container.imagem .row picture.ping10 {
-    top: 91%;
-    right: 41.3%;
+    top: 77%;
+    right: 35.3%;
 }
 section.image .container.imagem .row .txtMap {
     left: 40%;
@@ -328,29 +323,24 @@ section.image .container.imagem .row.mob {
     }
     section.image .container.imagem .row.mob a {
         position: absolute;
-        width: 12px;
+        width: 10px;
         height: 21px;
-        background-color: green;
     }
     section.image .container.imagem .row.mob a.a1 {
         top: 30.5%;
-        left: 40%;
+        left: 45.5%;
     }
     section.image .container.imagem .row.mob a.a2 {
         top: 35%;
-        left: 44.5%;
+        left: 49%;
     }
     section.image .container.imagem .row.mob a.a3 {
-        top: 54.5%;
-        left: 87.5%;
+        top: 56.5%;
+        left: 82.5%;
     }
     section.image .container.imagem .row.mob a.a4 {
-        top: 61%;
-        left: 80.5%;
-    }
-    section.image .container.imagem .row.mob a.a5 {
-        top: 57.5%;
-        left: 40%;
+        top: 65%;
+        left: 77.2%;
     }
     section.image .container.imagem .row.mob a.a6 {
         top: 63%;
@@ -358,19 +348,19 @@ section.image .container.imagem .row.mob {
     }
     section.image .container.imagem .row.mob a.a7 {
         top: 71%;
-        left: 55.8%;
+        left: 64%;
     }
     section.image .container.imagem .row.mob a.a8 {
-        top: 73.5%;
-        left: 46.5%;
+        top: 68.5%;
+        left: 68%;
     }
     section.image .container.imagem .row.mob a.a9 {
-        top: 77%;
+        top: 72%;
         left: 59.5%;
     }
     section.image .container.imagem .row.mob a.a10 {
-        top: 80.5%;
-        left: 54.8%;
+        top: 84.5%;
+        left: 60.4%;
     }
 
     /* pings end */ 
@@ -387,7 +377,7 @@ section.image .container.imagem .row.mob {
     section .container .row .col-md-4 div.d-flex.flex-column {
         margin-bottom: 20px;
     }
-    section.pouso .container.ETE .button {
+    section.piracicamirim .container.ETE .button {
         padding: 15% 0% 8%;
     }
     section.green .container .title p.h1 {
